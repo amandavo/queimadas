@@ -40,16 +40,14 @@ O objetivo é apoiar ações de prevenção, combate a incêndios florestais e a
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/projeto-queimadas.git
+   git clone https://github.com/amandavo/queimadas
    ```
 
-2. Entre nas pastas:
+2. Entre nesses caminhos:
     ```bash
     cd src
-    cd ..
+    cd cmd
     ```
-
-Caso esteja pelo powershell, entre no command prompt: ``` cmd ```
 
 3. Crie a venv:
     ```bash
@@ -58,15 +56,15 @@ Caso esteja pelo powershell, entre no command prompt: ``` cmd ```
 
 4. Ative o ambiente virtual (venv):
 
-No Windows, use:
-    ```bash
-    .\venv\Scripts\activate
-    ```
+- No Windows, use:
+  ```bash
+  .\venv\Scripts\activate
+  ```
 
-No Linux/macOS, use:
-    ```bash
-    source venv/bin/activate
-    ```
+- No Linux/macOS, use:
+  ```bash
+  source venv/bin/activate
+  ```
 
 5. Instale as dependências do requirements.txt:
     ```bash
@@ -78,4 +76,4 @@ No Linux/macOS, use:
     python app.py
     ```
 
-7. E abra o link que aparecerá no cmd.
+7. Acesse o link que aparecerá no cmd (http://127.0.0.1:5000/).
