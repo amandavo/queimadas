@@ -8,21 +8,31 @@ Também consiste em implementar funcionalidades para filtrar, comparar e destaca
 
 O Programa Queimadas, do Instituto Nacional de Pesquisas Espaciais (INPE), monitora e disponibiliza diariamente dados de focos de calor detectados por satélites.  
 O objetivo é apoiar ações de prevenção, combate a incêndios florestais e análise de impacto ambiental.
+https://terrabrasilis.dpi.inpe.br/queimadas/portal/
 
 ## 🔧 Tecnologias
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">
-  <img align="center" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange" alt="html"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
-  <img align="center" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue" alt="css"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-</a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-</a>
+<p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  </a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  </a>
+</p>
+
+## 🎥 Apresentação
+
+Funcionamento do site juntamente com o **Responsivo**
+
+https://github.com/user-attachments/assets/e00dc3d0-7343-4a24-aadc-b4103c81a6ba
+
 
 ## 📊 Planilhas Utilizadas
 
