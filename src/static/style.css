@@ -186,7 +186,7 @@ input[type="radio"] {
     font-size: 14px;
 }
 
-.daily-table thead {
+.daily-table thead, .comparative thead {
     position: sticky; 
     top: 0; 
     z-index: 1;

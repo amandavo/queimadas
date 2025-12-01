@@ -78,6 +78,7 @@ function loadHistSP() {
             return response.json();
         })
         .then(data => {
+            histData = data;
             clearError2();
             renderComparativeTable();
         })
